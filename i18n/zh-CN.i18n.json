@@ -1,0 +1,76 @@
+{
+  "lists": {
+    "makePrivate": {
+      "notLoggedIn": "必须登录才能创建私有列表.",
+      "lastPublicList": "无法将最后一个公共列表私有化."
+    },
+    "makePublic": {
+      "notLoggedIn": "必须登录.",
+      "accessDenied": "您没有编辑此列表的权限."
+    },
+    "updateName": {
+      "accessDenied": "您没有编辑此列表的权限."
+    },
+    "remove": {
+      "accessDenied": "您没有删除此列表的权限.",
+      "lastPublicList": "不能删除最后一个公共列表.",
+      "confirm": "您确定要删除列表吗?"
+    },
+    "show": {
+      "cancel": "取消",
+      "showMenu": "显示菜单",
+      "selectAction": "选择一个操作",
+      "makePublic": "公之于众",
+      "makePrivate": "设为私密",
+      "delete": "删除",
+      "makeListPublic": "列表公之于众",
+      "makeListPrivate": "列表设为私密",
+      "deleteList": "删除列表",
+      "typeToAdd": "添加新任务",
+      "noTasks": "这里没有任务",
+      "addAbove": "使用以上字段添加新任务",
+      "loading": "加载任务..."
+    },
+    "insert": {
+      "list": "列表"
+    }
+  },
+  "todos": {
+    "insert": {
+      "accessDenied": "无法添加待办事项到一个不是你的私人列表"
+    },
+    "setCheckedStatus": {
+      "accessDenied": "无法在一个不是你的私人列表编辑待办事项"
+    },
+    "updateText": {
+      "accessDenied": "无法在一个不是你的私人列表编辑待办事项"
+    },
+    "remove": {
+      "accessDenied": "无法在一个不是你的私人列表删除待办事项"
+    },
+    "item": {
+      "taskName": "任务名称"
+    }
+  },
+  "useraccounts": {
+    "atTitle": {
+      "subtitle": "登录允许您拥有私有列表"
+    }
+  },
+  "layouts": {
+    "appBody": {
+      "logout": "注销",
+      "login": "登录",
+      "join": "注册",
+      "newList": "新列表",
+      "newListError": "无法创建列表.",
+      "tryingToConnect": "尝试连接",
+      "connectionIssue": "似乎有一个连接问题"
+    }
+  },
+  "pages": {
+    "appNotFound": {
+      "pageNotFound": "找不到网页"
+    }
+  }
+}
