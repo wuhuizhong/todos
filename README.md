@@ -27,3 +27,11 @@ To lint:
 meteor npm run lint
 ```
 
+Note: you are using a pure-JavaScript implementation of bcrypt.
+While this implementation will work correctly, it is known to be
+approximately three times slower than the native implementation.
+In order to use the native implementation instead, run
+```bash
+meteor npm install --save bcrypt
+```
+in the root directory of your application.
